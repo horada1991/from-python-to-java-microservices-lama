@@ -33,7 +33,7 @@ public class DeliveryLabelGeneratorService {
 
     /**
      * setup the server's port
-     * @param args
+     * @param args the command line arguments
      */
     private static void setup(String[] args) {
         if (args == null || args.length == 0) {
